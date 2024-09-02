@@ -1,0 +1,32 @@
+.border{
+    border: 1px black solid;
+}
+.heightandwidth{
+    width: 200px;
+    height: 100px;
+}
+.top{
+   
+    background-color: aqua;
+    margin-left: 40%;
+}
+.aside{
+    background-color: chartreuse;
+}
+.section{
+margin-left:auto;
+background-color: blue;
+}
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chocolate;
+}
+
+.bottom{
+
+
+    background-color: blueviolet;
+    margin-left:auto;
+    margin-right: auto;
+}

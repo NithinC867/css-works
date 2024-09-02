@@ -1,0 +1,19 @@
+body{
+    background-color: black;color: white;   
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#first{
+    color: aqua;
+    text-align: center;
+}
+
+#second{
+    color: blue;
+    text-align: center;
+}

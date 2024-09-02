@@ -1,0 +1,43 @@
+body{
+    background-color: #7db0b5;
+}
+.card-group{
+    width: 80%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    
+}
+
+.border{
+    border: 1px solid #466978;
+    border-radius: 10px;
+}
+
+.card{
+    width: 30%;
+    padding: 10px;
+    background-color: #4d8076;
+    min-height: 550px;
+}
+
+.card-image > img{
+    width: 100%;
+}
+
+.description> p{
+    line-height: 25px;
+    text-align: justify;
+}
+.card-footer{
+display: flex;
+justify-content: space-between;
+}
+
+.card-footer > button{
+    height: 40px;
+    background-color: #c4fcef;
+}

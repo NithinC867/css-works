@@ -1,0 +1,9 @@
+.parent{
+    width: 300px;
+    height: 200px;
+    border: 1px black solid;
+}
+ .section1{
+    color: white;
+    background-color: aqua;
+ }
